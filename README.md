@@ -77,6 +77,8 @@ Panvel, Maharashtra · B.Tech CSE, GCOE Jalgaon '26
 
 ---
 
+![Snake Animation](https://github.com/Shewale41/Shewale41/blob/output/snake.svg?raw=true)
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shewale41&show_icons=true&theme=radical&hide_border=true&count_private=true)
