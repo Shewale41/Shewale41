@@ -16,7 +16,7 @@ Panvel, Maharashtra · B.Tech CSE, GCOE Jalgaon '26
 
 ### 🔭 Currently
 
-- SDE Intern @ **Emendo AI** (San Francisco, remote) — shipped 25+ tickets across React Native, backend, and PostgreSQL
+- SDE Intern @ **Emendo AI** (San Francisco, remote) — shipped multiple tickets across React Native, backend, and PostgreSQL
 - Building **FloatChat**, an NL-to-SQL platform for the Govt. of India's ARGO ocean data program (3M+ profiles)
 - Obsessed with browser performance — Web Workers, render optimization, and pushing 45% fewer re-renders
 
