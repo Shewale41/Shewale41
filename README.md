@@ -1,90 +1,115 @@
 <div align="center">
 
-# Gopal Shewale
-
-**Software Development Engineer** · Full-Stack & Mobile · React / Next.js / TypeScript
-
-Panvel, Maharashtra · B.Tech CSE, GCOE Jalgaon '26
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopal-shewale)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://gopal-shewale.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:shewalegopal4119@gmail.com)
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · shewale41</sub></p>
+<h1>Shewale Gopal Sanjay</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Pune,India</sub></p>
+<p><a href="https://github.com/shewale41">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/162805430?u=87f6ea6d0135b074b8b8ede2e47161f885220652&amp;v=4" width="180" alt="Shewale Gopal Sanjay GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### 🔭 Currently
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · Java</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>36 repositories · 13 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>202 contributions · 84 active days</p></td>
+</tr>
+</table>
 
-- SDE Intern @ **Emendo AI** (San Francisco, remote) — shipped multiple tickets across React Native, backend, and PostgreSQL
-- Building **FloatChat**, an NL-to-SQL platform for the Govt. of India's ARGO ocean data program (3M+ profiles)
-- Obsessed with browser performance — Web Workers, render optimization, and pushing 45% fewer re-renders
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-### ⚡ Featured Work
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>36</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>202</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[FloatChat](https://github.com/Shewale41)** | Next.js · LangChain · PostgreSQL | NL→SQL over 3M+ ocean profiles. NetCDF pipeline, vector semantic search, 85%+ test coverage, 34% faster loads |
-| **[BreakEven](https://github.com/Shewale41)** | React · TypeScript · Web Workers · Recharts | Monte Carlo rent-vs-buy engine. 3,000+ scenarios off the main thread, zero financial libraries |
-| **[EDURA](https://github.com/Shewale41)** | Next.js · Whisper · Gemini · FFmpeg | Lecture transcription + AI study notes, Hindi & English. Cut note-taking time ~50% |
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Shewale Gopal Sanjay GitHub proof metrics" />
+</picture>
+</p>
 
----
+<h2>Selected work</h2>
 
-### 🛠️ Stack
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&repos=shewale41%2Fpokedex-app%2Cshewale41%2FAi-Resume-Builder-%2Cshewale41%2FAmazing-Saas-Landing-Page-%2Cshewale41%2FFood2&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&repos=shewale41%2Fpokedex-app%2Cshewale41%2FAi-Resume-Builder-%2Cshewale41%2FAmazing-Saas-Landing-Page-%2Cshewale41%2FFood2&v=recruiter-projects-1&mode=dark" width="100%" alt="Shewale Gopal Sanjay selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Shewale41/pokedex-app">pokedex-app</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Shewale41/pokedex-app">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-**Languages**
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Shewale41/Ai-Resume-Builder-">Ai-Resume-Builder-</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 3</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Shewale41/Amazing-Saas-Landing-Page-">Amazing-Saas-Landing-Page-</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 3</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Shewale41/Food2">Food2</a></h3><p>A selected public project.</p><p><sub>EJS · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+<h2>Technical toolkit</h2>
 
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST](https://img.shields.io/badge/-REST_APIs-0055FF?style=flat-square&logo=swagger&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Shewale Gopal Sanjay technology stack" />
+</picture>
+</p>
 
-**Cloud & DevOps**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>38% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>26% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>18% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
+</tr>
+</table>
 
----
+<h2>Consistency signal</h2>
 
-### 🏆 Highlights
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=shewale41&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162805430%3Fu%3D87f6ea6d0135b074b8b8ede2e47161f885220652%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Shewale Gopal Sanjay contribution activity" />
+</picture>
+</p>
 
-- 🥇 **1st Place** — HackNex 24-Hour Hackathon *(Nov 2025)*
-- 🥈 **Runner-up** — Smart India Hackathon, GCOE Jalgaon internal round *(Sept 2025)*
-- **Top 10 / 981** — TechEchelons 2026, Web Development *(Jan 2026)*
-- **Top 50 / 1700+** — Acropolis Prayatna 3.0 *(Mar 2026)*
-- Led teams to Grand Finals in **5+ national hackathons**
-- **150+** DSA problems solved across LeetCode, GeeksforGeeks, CodeChef
+<hr />
 
----
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/shewale41">GitHub</a></td>
+</tr>
+</table>
 
-![Snake Animation](https://github.com/Shewale41/Shewale41/blob/output/snake.svg?raw=true)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shewale41&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shewale41&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shewale41&theme=radical&hide_border=true)
-
-</div>
+<p align="center"><sub>Shewale Gopal Sanjay · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
